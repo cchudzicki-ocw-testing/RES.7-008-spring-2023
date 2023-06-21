@@ -1,0 +1,42 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "728x-molecular-biology"
+  },
+  "course_image": {
+    "content": "",
+    "website": "728x-molecular-biology"
+  },
+  "course_title": "7.28x Molecular Biology",
+  "course_description": "This course is a detailed analysis of the biochemical mechanisms that control the maintenance, expression, and evolution of prokaryotic and eukaryotic genomes. Topics covered in lecture and readings of relevant literature include: gene regulation, DNA replication, genetic recombination, and mRNA translation. Logic of experimental design and data analysis emphasized. Presentations include both lectures and group discussions of representative papers from the literature. Students taking the graduate version are expected to explore the subject in greater depth.\n\nThis course, based on the MIT course *7.28 Molecular Biology* taken by enrolled MIT students, was organized as a three-part series on [edX](https://www.edx.org/school/mitx) by [MIT\u2019s Department of Biology](https://biology.mit.edu/) (Note: The first part of the course is being updated and will be available again in mid-July, 2023). It is [self-paced and free](https://web.mit.edu/mitxbio/courses.html) as long as you enroll in the Audit Track option, which you can select after creating a free account on edX.",
+  "department_numbers": [
+    "7",
+    "RES"
+  ],
+  "extra_course_numbers": "7.58",
+  "primary_course_number": "7.28",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "728x-molecular-biology"
+  },
+  "learning_resource_types": [
+    "Course Introduction",
+    "Lecture Videos",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "54c48119-210a-4446-81d4-847bea15d697",
+  "site_short_id": "RES.7-008-spring-2023"
+}
