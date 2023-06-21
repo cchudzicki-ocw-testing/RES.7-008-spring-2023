@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external--193361850-1687359403015
+  name: Transcription and Transposition
+  url: https://www.edx.org/course/molecular-biology-part-2-transcription-and-transposition
+  weight: 10
+- identifier: external-728706035-1687359438624
+  name: RNA Processing and Translation
+  url: https://www.edx.org/course/molecular-biology-part-3-rna-processing-and-transl
+  weight: 20
