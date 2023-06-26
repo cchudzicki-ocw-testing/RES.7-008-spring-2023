@@ -6,9 +6,12 @@ file: /courses/res-7-008-7-28x-molecular-biology/res7-008-th.jpg
 file_size: ''
 file_type: image/jpeg
 image_metadata:
-  caption: ''
-  credit: ''
-  image-alt: ''
+  caption: Embark on this in-depth adventure through DNA replication and repair to
+    strengthen your scientific thinking and experimental design skills. (Image by
+    Dr. Sera Thornton.)
+  credit: Dr. Sera Thornton
+  image-alt: An illustration showing the cellular machinery involved in DNA replication
+    inside a cell.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
@@ -25,3 +28,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+An illustration showing the cellular machinery involved in DNA replication inside a cell.
