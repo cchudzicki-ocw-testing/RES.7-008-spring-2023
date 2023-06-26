@@ -24,7 +24,14 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
+    "content": [
+      "0eb728bb-bde0-4ad0-bf0e-71c2fe875726",
+      "a82054f1-5c06-3e4d-dd4a-fa2f6d50bbc0",
+      "698fbf70-1744-45f9-88fe-db0bd96fa255",
+      "a9c205f0-16b4-43d8-a731-15a4bf67a2f4",
+      "faf70df6-dbd4-4aba-ab2d-ff6dcae4efac",
+      "1d404065-a1c6-4cef-8dae-a87a36b07285"
+    ],
     "website": "ocw-www"
   },
   "course_image": {
@@ -32,7 +39,7 @@
     "website": "728x-molecular-biology"
   },
   "course_title": "7.28x Molecular Biology",
-  "course_description": "This course is an in-depth adventure through the molecular mechanisms that control the maintenance, expression, and evolution of prokaryotic and eukaryotic genomes. Through lectures and readings of relevant literature, students will explore the following topics: gene regulation, DNA replication, genetic recombination, transcription, and mRNA translation. The quizzes are designed to build students' experimental design and data analysis skills.\n\nThis course, based on the MIT course *7.28/7.58 Molecular Biology* taken by enrolled MIT students, was organized as a three-part series on [edX](https://www.edx.org/school/mitx) by [MIT\u2019s Department of Biology](https://biology.mit.edu/) (Note: The first part of the course is being updated and will be available again starting in mid-July, 2023). It is [self-paced and free](https://web.mit.edu/mitxbio/courses.html) as long as you enroll in the Audit Track option, which you can select after creating a free account on edX.",
+  "course_description": "This course is an in-depth adventure through the molecular mechanisms that control the maintenance, expression, and evolution of prokaryotic and eukaryotic genomes. Through lectures and readings of relevant literature, students will explore gene regulation, DNA replication, genetic recombination, transcription, and mRNA translation. The quizzes are designed to build students' experimental design and data analysis skills.\n\nThis course, based on the MIT course *7.28/7.58 Molecular Biology* taken by enrolled MIT students, was organized as a three-part series on [edX](https://www.edx.org/school/mitx) by [MIT\u2019s Department of Biology](https://biology.mit.edu/). It is [self-paced and free](https://web.mit.edu/mitxbio/courses.html) as long as you enroll in the Audit Track option, which you can select after creating a free account on edX.",
   "department_numbers": [
     "7",
     "RES"
