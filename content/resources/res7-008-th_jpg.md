@@ -1,0 +1,27 @@
+---
+body: ''
+content_type: resource
+draft: false
+file: /courses/res-7-008-7-28x-molecular-biology/res7-008-th.jpg
+file_size: ''
+file_type: image/jpeg
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Image
+title: res.7-008-th.jpg
+uid: f7b3969d-a9c0-4e6d-911d-62d51f531248
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
+---
